@@ -1,0 +1,1 @@
+item replace entity @s armor.feet with minecraft:diamond_boots{Enchantments:[{id:"minecraft:depth_strider",lvl:3s},{id:"minecraft:frost_walker",lvl:2s}],Trim: {material: "minecraft:amethyst", pattern: "minecraft:silence"}}
