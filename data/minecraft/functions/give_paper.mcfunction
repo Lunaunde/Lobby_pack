@@ -1,2 +1,0 @@
-execute store success storage success success int 1 run clear @s minecraft:paper 0
-execute if data storage minecraft:success {success:0} run give @s minecraft:paper{Unbreakable:1b,display:{Name:"[\"使用/menu打开服务器菜单\"]",Lore:["[\"使用指令 '/m' '/menu' '/菜单' 打开菜单\"]"]},Enchantments:[{id:"minecraft:binding_curse",lvl:1s}]}
